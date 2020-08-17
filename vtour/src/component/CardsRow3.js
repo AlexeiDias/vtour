@@ -19,14 +19,14 @@ const Styles = styled.div`
 
 
 
-export default class CardsRow2 extends Component {
+export default class CardsRow3 extends Component {
     render() {
         return (
           <Styles>
           <CardDeck className="cardDeck">
     <Card>
     <MDBContainer className="text-center">
-        <MDBIframe src='https://my.matterport.com/show/?m=LgdXpU1keku' />
+        <MDBIframe src='https://my.matterport.com/show/?m=eaoFwZduf1h&brand=0' />
       </MDBContainer>
       <Card.Body>
         <Card.Title>Card title</Card.Title>
@@ -41,7 +41,7 @@ export default class CardsRow2 extends Component {
     </Card>
     <Card>
     <MDBContainer className="text-center">
-        <MDBIframe src='https://my.matterport.com/show/?m=tFTySRT43ym&brand=0' />
+        <MDBIframe src='https://my.matterport.com/show/?m=MMWxWY1ffWJ&brand=0' />
       </MDBContainer>
       <Card.Body>
         <Card.Title>Card title</Card.Title>
@@ -56,7 +56,7 @@ export default class CardsRow2 extends Component {
     </Card>
     <Card>
     <MDBContainer className="text-center">
-        <MDBIframe src='https://my.matterport.com/show/?m=HPwSn5mzJ2F' />
+        <MDBIframe src='https://my.matterport.com/show/?m=v3NVjC7gaXE&brand=0' />
       </MDBContainer>
       <Card.Body>
         <Card.Title>Card title</Card.Title>

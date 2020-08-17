@@ -11,21 +11,14 @@ const Styles = styled.div`
         text-align: center;
         padding-top: 0px;
     }
-   
-`;
-
-
-
-
+  `;
 const MainIframe = () => {
- 
-  return (
+ return (
     <Styles>
     <MDBContainer className="text-center porsition">
-      <MDBIframe id='hideiframe' src='https://my.matterport.com/show/?m=mRe8kYkJx7z' />
+      <MDBIframe id='hideiframe' src='https://my.matterport.com/show/?m=MwSJpTXtdSg' />
     </MDBContainer>
     </Styles>
   );
 }
-
 export default MainIframe;
